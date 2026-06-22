@@ -1,0 +1,21 @@
+{
+  "name": "SM Nexus",
+  "short_name": "SM Nexus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8f4ff",
+  "theme_color": "#58aff7",
+  "description": "Premium SM Nexus shopping experience with search, deals, cart, wishlist and checkout.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Nexus UltraPhone 15",
+    "price": 74999,
+    "category": "Mobile",
+    "stock": 14,
+    "rating": 4.9,
+    "reviews": [
+      { "name": "Anita", "rating": 5, "comment": "Super-fast performance and premium feel." },
+      { "name": "Ravi", "rating": 4, "comment": "Battery lasts all day and camera is crisp." }
+    ],
+    "quality": "Flagship",
+    "features": ["Portrait display", "AI camera", "5G ready", "Fast charge"],
+    "image": "https://images.unsplash.com/photo-1510552776732-7197f8d1f48a?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Odyssey Gaming Laptop",
+    "price": 124999,
+    "category": "Laptop",
+    "stock": 8,
+    "rating": 4.8,
+    "reviews": [
+      { "name": "Karan", "rating": 5, "comment": "Blazing graphics and premium keyboard touch." },
+      { "name": "Sneha", "rating": 4, "comment": "A little heavy but performance is incredible." }
+    ],
+    "quality": "Pro Series",
+    "features": ["RTX 4090", "240Hz display", "Liquid cooling", "RGB chassis"],
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 3,
+    "name": "LuxeSound Wireless Earbuds",
+    "price": 7999,
+    "category": "Audio",
+    "stock": 25,
+    "rating": 4.7,
+    "reviews": [
+      { "name": "Meera", "rating": 5, "comment": "Audio quality is premium for the price." },
+      { "name": "Sahil", "rating": 4, "comment": "Great noise cancellation and battery life." }
+    ],
+    "quality": "Premium",
+    "features": ["Active noise cancellation", "Ultra bass", "Wireless charging", "Voice assistant"],
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Aura Smart Watch",
+    "price": 12999,
+    "category": "Wearables",
+    "stock": 5,
+    "rating": 4.6,
+    "reviews": [
+      { "name": "Rohit", "rating": 5, "comment": "Stylish, accurate health tracking and lightweight." },
+      { "name": "Preeti", "rating": 4, "comment": "Love the fitness modes and premium strap." }
+    ],
+    "quality": "Essential",
+    "features": ["Heart monitor", "GPS", "7-day battery", "Water resistant"],
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Nexus Travel Backpack",
+    "price": 5499,
+    "category": "Accessories",
+    "stock": 18,
+    "rating": 4.5,
+    "reviews": [
+      { "name": "Smita", "rating": 5, "comment": "Excellent build quality and organized pockets." },
+      { "name": "Vikram", "rating": 4, "comment": "Perfect for carry-on and day trips." }
+    ],
+    "quality": "Traveler",
+    "features": ["Waterproof", "USB charging port", "Laptop sleeve", "Anti-theft pocket"],
+    "image": "https://images.unsplash.com/photo-1515835056745-4b0beb5a6d26?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 6,
+    "name": "StudioBeam Soundbar",
+    "price": 21999,
+    "category": "Audio",
+    "stock": 4,
+    "rating": 4.8,
+    "reviews": [
+      { "name": "Asha", "rating": 5, "comment": "The home theatre experience is top-class." },
+      { "name": "Naveen", "rating": 4, "comment": "Powerful bass and crisp mids." }
+    ],
+    "quality": "Home Cinema",
+    "features": ["Dolby Atmos", "Bluetooth 5.2", "Multiroom", "Voice control"],
+    "image": "https://images.unsplash.com/photo-1512446814870-2f7cf7e5f253?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 7,
+    "name": "NeoFit Smart Scale",
+    "price": 3999,
+    "category": "Home",
+    "stock": 12,
+    "rating": 4.4,
+    "reviews": [
+      { "name": "Payal", "rating": 5, "comment": "Accurate readings and helpful health insights." },
+      { "name": "Dev", "rating": 4, "comment": "A great smart device for daily tracking." }
+    ],
+    "quality": "Smart Home",
+    "features": ["Body composition", "App sync", "Voice alerts", "Premium glass"],
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+  }
+]
